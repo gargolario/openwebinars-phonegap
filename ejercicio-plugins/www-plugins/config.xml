@@ -1,0 +1,3 @@
+<gap:plugin name="com.sharinglabs.cordova.plugin.datepicker" />
+<gap:plugin name="nl.x-services.plugins.insomnia" />
+
